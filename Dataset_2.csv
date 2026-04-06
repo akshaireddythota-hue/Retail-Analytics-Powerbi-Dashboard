@@ -1,0 +1,201 @@
+OrderID,CustomerID,Age,Gender,Product Category,Product Name,Quantity,Unit Price (€),Total Price (€),Payment Method,Store Location,Date,Customer Rating,Returns,Loyalty Member,Sales Rep
+1,C001,25,M,Electronics,Smartphone,1,699,699,Credit Card,Dublin,05/01/2025,4,No,Yes,Rep A
+2,C002,34,F,Clothing,Winter Jacket,2,89,178,Debit Card,Cork,06/01/2025,5,No,Yes,Rep B
+3,C003,29,M,Groceries,Weekly Shop,1,120,120,Cash,Galway,07/01/2025,3,No,No,Rep C
+4,C004,45,F,Electronics,Laptop,1,999,999,Credit Card,Dublin,08/01/2025,5,No,Yes,Rep A
+5,C005,50,M,Furniture,Office Chair,1,250,250,Debit Card,Limerick,09/01/2025,4,No,No,Rep D
+6,C006,28,F,Clothing,Summer Dress,3,45,135,Cash,Cork,10/01/2025,3,Yes,No,Rep B
+7,C007,60,M,Groceries,Weekly Shop,1,95,95,Debit Card,Dublin,11/01/2025,4,No,Yes,Rep C
+8,C008,40,F,Electronics,Tablet,1,450,450,Credit Card,Galway,12/01/2025,5,No,Yes,Rep A
+9,C009,35,M,Furniture,Sofa,1,799,799,Credit Card,Dublin,13/01/2025,4,No,Yes,Rep D
+10,C010,32,F,Clothing,Jeans,2,60,120,Cash,Cork,14/01/2025,3,No,No,Rep B
+11,C011,29,M,Groceries,Weekly Shop,1,110,110,Debit Card,Galway,15/01/2025,4,No,No,Rep C
+12,C012,45,F,Electronics,Smartwatch,1,299,299,Credit Card,Limerick,16/01/2025,5,No,Yes,Rep A
+13,C013,38,M,Clothing,Formal Suit,1,199,199,Debit Card,Dublin,17/01/2025,4,No,Yes,Rep B
+14,C014,27,F,Furniture,Bookshelf,1,150,150,Cash,Cork,18/01/2025,3,No,No,Rep D
+15,C015,50,M,Groceries,Weekly Shop,1,130,130,Debit Card,Dublin,19/01/2025,5,No,Yes,Rep C
+16,C016,42,F,Electronics,Headphones,1,199,199,Credit Card,Galway,20/01/2025,4,No,Yes,Rep A
+17,C017,39,M,Clothing,Winter Jacket,1,89,89,Cash,Limerick,21/01/2025,3,Yes,No,Rep B
+18,C018,30,F,Groceries,Weekly Shop,1,105,105,Debit Card,Dublin,22/01/2025,4,No,No,Rep C
+19,C019,55,M,Furniture,Dining Table,1,499,499,Credit Card,Cork,23/01/2025,5,No,Yes,Rep D
+20,C020,22,F,Electronics,Smartphone,1,699,699,Credit Card,Dublin,24/01/2025,5,No,Yes,Rep A
+21,C021,60,M,Clothing,Formal Suit,2,199,398,Debit Card,Galway,25/01/2025,4,No,Yes,Rep B
+22,C022,33,F,Groceries,Weekly Shop,1,115,115,Cash,Cork,26/01/2025,3,No,No,Rep C
+23,C023,54,M,Electronics,Laptop,1,1099,1099,Credit Card,Dublin,27/01/2025,5,No,Yes,Rep A
+24,C024,29,F,Furniture,Wardrobe,1,650,650,Debit Card,Limerick,28/01/2025,4,No,No,Rep D
+25,C025,31,M,Clothing,Jeans,3,60,180,Cash,Cork,29/01/2025,3,No,No,Rep B
+26,C026,37,F,Groceries,Weekly Shop,1,125,125,Debit Card,Galway,30/01/2025,4,No,Yes,Rep C
+27,C027,45,M,Electronics,Tablet,1,450,450,Credit Card,Dublin,31/01/2025,5,No,Yes,Rep A
+28,C028,50,F,Furniture,Office Chair,2,250,500,Debit Card,Cork,01/02/2025,4,No,Yes,Rep D
+29,C029,30,M,Clothing,Summer Dress,2,45,90,Cash,Galway,02/02/2025,2,Yes,No,Rep B
+30,C030,48,F,Groceries,Weekly Shop,1,140,140,Credit Card,Dublin,03/02/2025,5,No,Yes,Rep C
+31,C031,33,M,Electronics,Smartwatch,1,299,299,Debit Card,Limerick,04/02/2025,4,No,No,Rep A
+32,C032,29,F,Clothing,Winter Jacket,1,89,89,Cash,Cork,05/02/2025,3,No,No,Rep B
+33,C033,60,M,Furniture,Sofa,1,799,800,Credit Card,Dublin,06/02/2025,5,No,Yes,Rep D
+34,C034,38,F,Groceries,Weekly Shop,1,110,110,Debit Card,Galway,07/02/2025,4,No,No,Rep C
+35,C035,55,M,Electronics,Laptop,1,999,999,Credit Card,Dublin,08/02/2025,5,No,Yes,Rep A
+36,C036,42,F,Clothing,Jeans,2,60,120,Cash,Cork,09/02/2025,3,Yes,No,Rep B
+37,C037,39,M,Furniture,Bookshelf,2,150,300,Debit Card,Limerick,10/02/2025,4,No,Yes,Rep D
+38,C038,30,F,Groceries,Weekly Shop,1,95,95,Cash,Galway,11/02/2025,3,No,No,Rep C
+39,C039,41,M,Electronics,Headphones,2,199,398,Credit Card,Dublin,12/02/2025,5,No,Yes,Rep A
+40,C040,30,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,13/02/2025,4,No,Yes,Rep B
+41,C041,54,M,Furniture,Dining Table,1,499,499,Credit Card,Dublin,14/02/2025,5,No,Yes,Rep D
+42,C042,29,F,Groceries,Weekly Shop,1,120,120,Cash,Galway,15/02/2025,3,No,No,Rep C
+43,C043,36,M,Electronics,Smartphone,1,699,699,Credit Card,Limerick,16/02/2025,4,No,Yes,Rep A
+44,C044,60,F,Clothing,Winter Jacket,1,89,,Cork,17/02/2022,5,No,Yes,Rep B,
+45,C045,31,M,Furniture,Wardrobe,1,650,650,Debit Card,Dublin,18/02/2025,4,No,No,Rep D
+46,C046,48,F,Groceries,Weekly Shop,1,130,130,Credit Card,Galway,19/02/2025,5,No,Yes,Rep C
+47,C047,39,M,Electronics,Tablet,1,450,450,Debit Card,Dublin,20/02/2025,4,No,Yes,Rep A
+48,C048,22,F,Clothing,Summer Dress,4,45,180,Cash,Cork,21/02/2025,3,No,No,Rep B
+49,C049,45,M,Furniture,Office Chair,1,250,250,Credit Card,Limerick,22/02/2025,4,No,Yes,Rep D
+50,C050,29,F,Groceries,Weekly Shop,1,115,115,Debit Card,Dublin,23/02/2025,5,No,Yes,Rep C
+51,C051,34,M,Electronics,Smartwatch,1,299,299,Credit Card,Galway,24/02/2025,4,No,Yes,Rep A
+52,C052,45,F,Clothing,Jeans,3,60,180,Cash,Cork,25/02/2025,3,Yes,No,Rep B
+53,C053,50,M,Furniture,Sofa,1,799,799,Credit Card,Dublin,26/02/2025,5,No,Yes,Rep D
+54,C054,28,F,Groceries,Weekly Shop,1,100,100,Debit Card,Limerick,27/02/2025,4,No,No,Rep C
+55,C055,32,M,Electronics,Laptop,1,1099,1099,Credit Card,Dublin,28/02/2025,5,No,Yes,Rep A
+56,C056,38,F,Clothing,Winter Jacket,2,89,178,Cash,Galway,01/03/2023,3,No,No,Rep B
+57,C057,40,M,Furniture,Bookshelf,1,150,150,Debit Card,Cork,02/03/2025,4,No,Yes,Rep D
+58,C058,29,F,Groceries,Weekly Shop,1,105,105,Cash,Dublin,03/03/2025,3,No,No,Rep C
+59,C059,42,M,Electronics,Headphones,1,199,199,Credit Card,Limerick,04/03/2025,5,No,Yes,Rep A
+60,C060,26,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,05/03/2025,4,No,Yes,Rep B
+61,C061,55,M,Furniture,Dining Table,1,499,499,Credit Card,Dublin,06/03/2025,5,No,Yes,Rep D
+62,C062,30,F,Groceries,Weekly Shop,1,125,125,Cash,Galway,07/03/2025,4,No,No,Rep C
+63,C063,35,M,Electronics,Smartphone,1,699,699,Credit Card,Dublin,08/03/2025,5,No,Yes,Rep A
+64,C064,61,F,Clothing,Jeans,2,60,120,Debit Card,Cork,09/03/2025,3,No,Yes,Rep B
+65,C065,44,M,Furniture,Wardrobe,1,650,650,Credit Card,Limerick,10/03/2025,4,No,Yes,Rep D
+66,C066,29,F,Groceries,Weekly Shop,1,130,130,Cash,Dublin,11/03/2025,3,No,No,Rep C
+67,C067,39,M,Electronics,Tablet,1,450,450,Debit Card,Galway,12/03/2025,4,No,Yes,Rep A
+68,C068,53,F,Clothing,Summer Dress,2,45,90,Cash,Cork,13/03/2025,2,Yes,No,Rep B
+69,C069,34,M,Furniture,Office Chair,1,250,250,Credit Card,Dublin,14/03/2025,4,No,No,Rep D
+70,C070,30,F,Groceries,Weekly Shop,1,110,110,Debit Card,Limerick,15/03/2025,5,No,Yes,Rep C
+71,C071,45,M,Electronics,Smartwatch,2,299,598,Credit Card,Dublin,16/03/2025,5,No,Yes,Rep A
+72,C072,28,F,Clothing,Winter Jacket,1,89,89,Cash,Galway,17/03/2025,3,No,No,Rep B
+73,C073,40,M,Furniture,Sofa,1,799,799,Credit Card,Cork,18/03/2025,4,No,Yes,Rep D
+74,C074,50,F,Groceries,Weekly Shop,1,140,140,Debit Card,Dublin,19/03/2025,5,No,Yes,Rep C
+75,C075,37,M,Electronics,Laptop,1,999,1099,Credit Card,Limerick,20/03/2025,4,No,Yes,Rep A
+76,C076,60,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,21/03/2025,5,No,Yes,Rep B
+77,C077,32,M,Furniture,Bookshelf,2,150,300,Cash,Dublin,22/03/2025,4,No,No,Rep D
+78,C078,29,F,Groceries,Weekly Shop,1,120,120,Cash,Galway,23/03/2025,3,No,No,Rep C
+79,C079,34,M,Electronics,Headphones,1,199,199,Credit Card,Dublin,24/03/2025,5,No,Yes,Rep A
+80,C080,22,F,Clothing,Jeans,4,60,240,Debit Card,Cork,25/03/2025,3,No,No,Rep B
+81,C081,45,M,Furniture,Dining Table,1,499,499,Credit Card,Limerick,26/03/2025,4,No,Yes,Rep D
+82,C082,39,F,Groceries,Weekly Shop,1,115,115,Cash,Dublin,27/03/2025,4,No,No,Rep C
+83,C083,35,M,Electronics,Smartphone,1,699,699,Credit Card,Galway,28/03/2025,5,No,Yes,Rep A
+84,C084,60,F,Clothing,Summer Dress,3,45,135,Cash,Cork,29/03/2025,2,Yes,No,Rep B
+85,C085,41,M,Furniture,Wardrobe,1,650,650,Debit Card,Dublin,30/03/2025,4,No,Yes,Rep D
+86,C086,30,F,Groceries,Weekly Shop,1,100,100,Cash,Limerick,31/03/2025,3,No,No,Rep C
+87,C087,59,M,Electronics,Tablet,1,450,450,Credit Card,Dublin,01/04/2025,5,No,Yes,Rep A
+88,C088,22,F,Clothing,Winter Jacket,1,89,89,Debit Card,Galway,02/04/2025,4,No,No,Rep B
+89,C089,48,M,Furniture,Office Chair,2,250,500,Credit Card,Cork,03/04/2025,5,No,Yes,Rep D
+90,C090,34,F,Groceries,Weekly Shop,1,125,125,Cash,Dublin,04/04/2025,4,No,Yes,Rep C
+91,C091,50,M,Electronics,Smartwatch,1,299,299,Credit Card,Limerick,05/04/2025,5,No,Yes,Rep A
+92,C092,38,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,06/04/2025,4,No,Yes,Rep B
+93,C093,60,M,Furniture,Sofa,1,799,799,Credit Card,Dublin,07/04/2025,5,No,Yes,Rep D
+94,C094,29,F,Groceries,Weekly Shop,1,130,130,Cash,Galway,08/04/2025,3,No,No,Rep C
+95,C095,44,M,Electronics,Laptop,1,999,999,Credit Card,Dublin,09/04/2025,5,No,Yes,Rep A
+96,C096,31,F,Clothing,Jeans,2,60,120,Cash,Cork,10/04/2025,3,Yes,No,Rep B
+97,C097,39,M,Furniture,Bookshelf,1,150,150,Debit Card,Limerick,11/04/2025,4,No,Yes,Rep D
+98,C098,36,F,Groceries,Weekly Shop,1,110,110,Cash,Dublin,12/04/2025,4,No,No,Rep C
+99,C099,54,M,Electronics,Headphones,2,199,398,Credit Card,Galway,13/04/2025,5,No,Yes,Rep A
+100,C100,22,F,Clothing,Summer Dress,2,45,90,Cash,Cork,14/04/2025,2,Yes,No,Rep B
+101,C101,45,M,Furniture,Dining Table,1,499,499,Credit Card,Dublin,15/04/2025,4,No,Yes,Rep D
+102,C102,33,F,Groceries,Weekly Shop,1,120,120,Debit Card,Limerick,16/04/2025,5,No,Yes,Rep C
+103,C103,38,M,Electronics,Smartphone,1,699,699,Credit Card,Dublin,17/04/2025,5,No,Yes,Rep A
+104,C104,60,F,Clothing,Winter Jacket,1,89,89,Cash,Galway,18/04/2025,4,No,Yes,Rep B
+105,C105,29,M,Furniture,Wardrobe,1,650,650,Debit Card,Cork,19/04/2025,3,No,No,Rep D
+106,C106,48,F,Groceries,Weekly Shop,1,115,115,Cash,Dublin,20/04/2025,4,No,Yes,Rep C
+107,C107,39,M,Electronics,Tablet,1,450,450,Credit Card,Limerick,21/04/2025,5,No,Yes,Rep A
+108,C108,22,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,22/04/2025,3,No,No,Rep B
+109,C109,45,M,Furniture,Office Chair,1,250,250,Credit Card,Dublin,23/04/2025,4,No,Yes,Rep D
+110,C110,39,F,Groceries,Weekly Shop,1,140,140,Cash,Galway,24/04/2025,5,No,Yes,Rep C
+111,C111,35,M,Electronics,Smartwatch,1,299,299,Credit Card,Dublin,25/04/2025,5,No,Yes,Rep A
+112,C112,60,F,Clothing,Jeans,3,60,180,Debit Card,Cork,26/04/2025,3,No,Yes,Rep B
+113,C113,41,M,Furniture,Sofa,1,799,799,Credit Card,Limerick,27/04/2025,4,No,Yes,Rep D
+114,C114,34,F,Groceries,Weekly Shop,1,100,100,Cash,Dublin,28/04/2025,3,No,No,Rep C
+115,C115,29,M,Electronics,Laptop,1,1099,1099,Credit Card,Galway,29/04/2025,5,No,Yes,Rep A
+116,C116,50,F,Clothing,Summer Dress,4,45,180,Cash,Cork,30/04/2025,2,Yes,No,Rep B
+117,C117,39,M,Furniture,Bookshelf,1,150,150,Debit Card,Dublin,01/05/2025,4,No,Yes,Rep D
+118,C118,35,F,Groceries,Weekly Shop,1,125,125,Cash,Limerick,02/05/2025,4,No,No,Rep C
+119,C119,60,M,Electronics,Headphones,1,199,199,Credit Card,Dublin,03/05/2025,5,No,Yes,Rep A
+120,C120,22,F,Clothing,Winter Jacket,2,89,178,Debit Card,Galway,04/05/2025,3,No,No,Rep B
+121,C121,45,M,Furniture,Dining Table,1,499,499,Credit Card,Cork,05/05/2025,4,No,Yes,Rep D
+122,C122,48,F,Groceries,Weekly Shop,1,130,130,Cash,Dublin,06/05/2025,5,No,Yes,Rep C
+123,C123,30,M,Electronics,Smartphone,1,699,699,Credit Card,Limerick,07/05/2025,4,No,Yes,Rep A
+124,C124,39,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,08/05/2025,3,No,Yes,Rep B
+125,C125,43,M,Furniture,Wardrobe,1,650,650,Credit Card,Dublin,09/05/2025,4,No,Yes,Rep D
+126,C126,32,F,Groceries,Weekly Shop,1,110,110,Cash,Galway,10/05/2025,3,No,No,Rep C
+127,C127,54,M,Electronics,Tablet,1,450,450,Credit Card,Dublin,11/05/2025,5,No,Yes,Rep A
+128,C128,41,F,Clothing,Jeans,2,60,120,Cash,Cork,12/05/2025,3,Yes,No,Rep B
+129,C129,34,M,Furniture,Office Chair,1,250,250,Debit Card,Limerick,13/05/2025,4,No,No,Rep D
+130,C130,40,F,Groceries,Weekly Shop,1,115,115,Cash,Dublin,14/05/2025,4,No,Yes,Rep C
+131,C131,29,M,Electronics,Smartwatch,1,299,299,Credit Card,Galway,15/05/2025,5,No,Yes,Rep A
+132,C132,22,F,Clothing,Summer Dress,3,45,140,Cash,Cork,16/05/2025,2,Yes,No,Rep B
+133,C133,47,M,Furniture,Sofa,1,799,799,Credit Card,Dublin,17/05/2025,4,No,Yes,Rep D
+134,C134,38,F,Groceries,Weekly Shop,1,125,125,Debit Card,Limerick,18/05/2025,5,No,Yes,Rep C
+135,C135,55,M,Electronics,Laptop,1,999,999,Credit Card,Dublin,19/05/2025,5,No,Yes,Rep A
+136,C136,60,F,Clothing,Winter Jacket,1,89,89,Cash,Galway,20/05/2025,4,No,Yes,Rep B
+137,C137,30,M,Furniture,Bookshelf,2,150,300,Debit Card,Cork,21/05/2025,4,No,No,Rep D
+138,C138,41,F,Groceries,Weekly Shop,1,100,100,Cash,Dublin,22/05/2025,3,No,No,Rep C
+139,C139,22,M,Electronics,Headphones,1,199,199,Credit Card,Limerick,23/05/2025,5,No,Yes,Rep A
+140,C140,45,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,24/05/2025,4,No,Yes,Rep B
+141,C141,48,M,Furniture,Dining Table,1,499,499,Credit Card,Dublin,25/05/2025,5,No,Yes,Rep D
+142,C142,39,F,Groceries,Weekly Shop,1,130,130,Cash,Galway,26/05/2025,4,No,Yes,Rep C
+143,C143,35,M,Electronics,Smartphone,1,699,699,Credit Card,Dublin,27/05/2025,5,No,Yes,Rep A
+144,C144,60,F,Clothing,Jeans,2,60,120,Cash,Cork,28/05/2025,3,No,Yes,Rep B
+145,C145,22,M,Furniture,Wardrobe,1,650,650,Debit Card,Limerick,29/05/2025,4,No,No,Rep D
+146,C146,33,F,Groceries,Weekly Shop,1,115,115,Cash,Dublin,30/05/2025,3,No,No,Rep C
+147,C147,54,M,Electronics,Tablet,2,450,900,Credit Card,Galway,31/05/2025,5,No,Yes,Rep A
+148,C148,41,F,Clothing,Summer Dress,4,45,180,Cash,Cork,01/06/2025,2,Yes,No,Rep B
+149,C149,34,M,Furniture,Office Chair,1,250,250,Credit Card,Dublin,02/06/2025,4,No,Yes,Rep D
+150,C150,40,F,Groceries,Weekly Shop,1,140,140,Debit Card,Limerick,03/06/2025,5,No,Yes,Rep C
+151,C151,29,M,Electronics,Smartwatch,1,299,299,Credit Card,Dublin,04/06/2025,5,No,Yes,Rep A
+152,C152,22,F,Clothing,Winter Jacket,1,89,89,Cash,Galway,05/06/2025,3,No,No,Rep B
+153,C153,47,M,Furniture,Sofa,1,799,799,Credit Card,Cork,06/06/2025,4,No,Yes,Rep D
+154,C154,38,F,Groceries,Weekly Shop,1,110,110,Cash,Dublin,07/06/2025,4,No,No,Rep C
+155,C155,55,M,Electronics,Laptop,1,999,999,Credit Card,Limerick,08/06/2025,5,No,Yes,Rep A
+156,C156,60,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,09/06/2025,4,No,Yes,Rep B
+157,C157,30,M,Furniture,Bookshelf,1,150,150,Cash,Dublin,10/06/2025,3,No,No,Rep D
+158,C158,41,F,Groceries,Weekly Shop,1,125,125,Cash,Galway,11/06/2025,4,No,Yes,Rep C
+159,C159,22,M,Electronics,Headphones,2,199,398,Credit Card,Dublin,12/06/2025,5,No,Yes,Rep A
+160,C160,45,F,Clothing,Jeans,3,60,180,Debit Card,Cork,13/06/2025,3,Yes,No,Rep B
+161,C161,48,M,Furniture,Dining Table,1,499,499,Credit Card,Limerick,14/06/2025,4,No,Yes,Rep D
+162,C162,39,F,Groceries,Weekly Shop,1,130,130,Cash,Dublin,15/06/2025,5,No,Yes,Rep C
+163,C163,35,M,Electronics,Smartphone,1,699,699,Credit Card,Galway,16/06/2025,5,No,Yes,Rep A
+164,C164,22,F,Clothing,Summer Dress,2,45,90,Cash,Cork,17/06/2025,2,Yes,No,Rep B
+165,C165,60,M,Furniture,Wardrobe,1,650,650,Debit Card,Dublin,18/06/2025,4,No,Yes,Rep D
+166,C166,33,F,Groceries,Weekly Shop,1,115,115,Cash,Limerick,19/06/2025,3,No,No,Rep C
+167,C167,54,M,Electronics,Tablet,1,450,450,Credit Card,Dublin,20/06/2025,5,No,Yes,Rep A
+168,C168,41,F,Clothing,Winter Jacket,1,89,89,Cash,Galway,21/06/2025,4,No,No,Rep B
+169,C169,34,M,Furniture,Office Chair,1,250,250,Credit Card,Cork,22/06/2025,4,No,Yes,Rep D
+170,C170,40,F,Groceries,Weekly Shop,1,100,100,Debit Card,Dublin,23/06/2025,5,No,Yes,Rep C
+171,C171,29,M,Electronics,Smartwatch,1,299,299,Credit Card,Limerick,24/06/2025,5,No,Yes,Rep A
+172,C172,22,F,Clothing,Formal Suit,1,199,199,Cash,Cork,25/06/2025,3,No,No,Rep B
+173,C173,47,M,Furniture,Sofa,1,799,799,Credit Card,Dublin,26/06/2025,4,No,Yes,Rep D
+174,C174,38,F,Groceries,Weekly Shop,1,125,125,Cash,Galway,27/06/2025,5,No,Yes,Rep C
+175,C175,55,M,Electronics,Laptop,1,999,999,Credit Card,Dublin,28/06/2025,5,No,Yes,Rep A
+176,C176,60,F,Clothing,Jeans,2,60,120,Debit Card,Cork,29/06/2025,3,No,Yes,Rep B
+177,C177,30,M,Furniture,Bookshelf,1,150,150,Cash,Limerick,30/06/2025,4,No,No,Rep D
+178,C178,41,F,Groceries,Weekly Shop,1,130,130,Cash,Dublin,01/07/2025,4,No,No,Rep C
+179,C179,22,M,Electronics,Headphones,1,199,199,Credit Card,Galway,02/07/2025,5,No,Yes,Rep A
+180,C180,45,F,Clothing,Summer Dress,4,45,180,Cash,Cork,03/07/2025,2,Yes,No,Rep B
+181,C181,48,M,Furniture,Dining Table,1,499,499,Credit Card,Dublin,04/07/2025,4,No,Yes,Rep D
+182,C182,39,F,Groceries,Weekly Shop,1,115,115,Debit Card,Limerick,05/07/2025,5,No,Yes,Rep C
+183,C183,35,M,Electronics,Smartphone,1,699,699,Credit Card,Dublin,06/07/2025,5,No,Yes,Rep A
+184,C184,60,F,Clothing,Winter Jacket,1,89,89,Cash,Galway,07/07/2025,4,No,Yes,Rep B
+185,C185,22,M,Furniture,Wardrobe,1,650,650,Debit Card,Cork,08/07/2025,3,No,No,Rep D
+186,C186,33,F,Groceries,Weekly Shop,1,110,110,Cash,Dublin,09/07/2025,3,No,No,Rep C
+187,C187,54,M,Electronics,Tablet,1,450,450,Credit Card,Limerick,10/07/2025,5,No,Yes,Rep A
+188,C188,41,F,Clothing,Formal Suit,1,199,199,Debit Card,Cork,11/07/2025,4,No,Yes,Rep B
+189,C189,34,M,Furniture,Office Chair,2,250,500,Credit Card,Dublin,12/07/2025,4,No,Yes,Rep D
+190,C190,40,F,Groceries,Weekly Shop,1,140,140,Cash,Galway,13/07/2025,5,No,Yes,Rep C
+191,C191,29,M,Electronics,Smartwatch,1,299,299,Credit Card,Dublin,14/07/2025,5,No,Yes,Rep A
+192,C192,22,F,Clothing,Jeans,2,60,120,Cash,Cork,15/07/2025,3,Yes,No,Rep B
+193,C193,47,M,Furniture,Sofa,1,799,799,Credit Card,Limerick,16/07/2025,4,No,Yes,Rep D
+194,C194,38,F,Groceries,Weekly Shop,1,125,125,Debit Card,Dublin,17/07/2025,5,No,Yes,Rep C
+195,C195,55,M,Electronics,Laptop,1,1099,1099,Credit Card,Galway,18/07/2025,5,No,Yes,Rep A
+196,C196,60,F,Clothing,Summer Dress,3,45,135,Cash,Cork,19/07/2025,2,Yes,No,Rep B
+197,C197,30,M,Furniture,Bookshelf,2,150,300,Cash,Dublin,20/07/2025,4,No,No,Rep D
+198,C198,41,F,Groceries,Weekly Shop,1,115,115,Cash,Limerick,21/07/2025,4,No,Yes,Rep C
+199,C199,35,M,Electronics,Smartphone,1,699,699,Credit Card,Dublin,22/07/2025,5,No,Yes,Rep A
+200,C200,45,F,Clothing,Winter Jacket,1,89,65,Cash,Galway,23/07/2025,3,No,Yes,Rep B
